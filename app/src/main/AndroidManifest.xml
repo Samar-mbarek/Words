@@ -11,10 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Words"
         tools:ignore="AllowBackup">
-        <activity
-            android:name="com.samar.words.DetailActivity"
-            android:exported="false"
-            android:parentActivityName="com.samar.words.MainActivity" />
+
         <activity
             android:name="com.samar.words.MainActivity"
             android:exported="true">
